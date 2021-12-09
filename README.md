@@ -1,4 +1,4 @@
-# 2021 Intelligent Sensing Winter School- The CORSMOL Challenge Submissio
+# 2021 Intelligent Sensing Winter School- The CORSMOL Challenge Submission
 ## Objective: To Estimate capacity of Container-like objects
 ### Dataset: CORSMOL Dataset: [CORSMAL Containers dataset](http://corsmal.eecs.qmul.ac.uk/containers.html)
 ### Method: Multi-view shape estimation of transparent containers(LoDE)  [LoDE webpage](http://corsmal.eecs.qmul.ac.uk/LoDE.html)
